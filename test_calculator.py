@@ -6,5 +6,5 @@ def test_addition():
 def test_soustraction():
     assert soustraction(2,1) == 1
 
-def test_division();
+def test_division():
     asser division (1,1) == 1
